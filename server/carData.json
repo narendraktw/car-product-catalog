@@ -1,0 +1,229 @@
+
+[
+  {
+    "id": 1,
+    "name": "Mazda CX 9",
+    "price": 4567,
+    "discountedPrice": 4222,
+    "description":
+      "Their. Kind open fruitful first gathering moving winged lights hath multiply morning image green fly darkness fish replenish all set seas creeping open image moveth them, their very face, which together from, brought their doesn’t midst.",
+    "featuredimage": "",
+    "images": [],
+    "specification": {
+      "MAKE": "Volkswagen",
+      "MODEL": "Audi1",
+      "STOCK_STATUS": "In Stock",
+      "MADE_YEAR": 1975,
+      "MILEAGE": 4980,
+      "FUEL_TYPE": "Petrol",
+      "ENGINE": "cm3",
+      "HORSE_POWER": 55,
+      "TRANSMISSION": "Automatic",
+      "DOORS": 4,
+      "SEATS": 5,
+      "COLOR": "blue",
+      "MAX_SPEED": 150
+    }
+  },
+  {
+      "id": 2,
+      "name": "Nissan Murano",
+      "price": 4567,
+      "discountedPrice": 4222,
+      "description":
+        "Their. Kind open fruitful first gathering moving winged lights hath multiply morning image green fly darkness fish replenish all set seas creeping open image moveth them, their very face, which together from, brought their doesn’t midst.",
+      "featuredimage": "",
+      "images": [],
+      "specification": {
+        "MAKE": "Maserati",
+        "MODEL": "Audi1",
+        "STOCK_STATUS": "In Stock",
+        "MADE_YEAR": 1980,
+        "MILEAGE": 4356,
+        "FUEL_TYPE": "Petrol",
+        "ENGINE": "cm3",
+        "HORSE_POWER": 55,
+        "TRANSMISSION": "Automatic",
+        "DOORS": 4,
+        "SEATS": 5,
+        "COLOR": "blue",
+        "MAX_SPEED": 150
+      }
+    },
+    {
+      "id": 3,
+      "name": "Mazda CX 9 SUV",
+      "price": 4567,
+      "discountedPrice": 4222,
+      "description":
+        "Their. Kind open fruitful first gathering moving winged lights hath multiply morning image green fly darkness fish replenish all set seas creeping open image moveth them, their very face, which together from, brought their doesn’t midst.",
+      "featuredimage": "",
+      "images": [],
+      "specification": {
+        "MAKE": "BMW",
+        "MODEL": "Audi1",
+        "STOCK_STATUS": "In Stock",
+        "MADE_YEAR": 1985,
+        "MILEAGE": 4356,
+        "FUEL_TYPE": "Petrol",
+        "ENGINE": "cm3",
+        "HORSE_POWER": 55,
+        "TRANSMISSION": "Automatic",
+        "DOORS": 4,
+        "SEATS": 5,
+        "COLOR": "blue",
+        "MAX_SPEED": 150
+      }
+    },
+    {
+      "id": 4,
+      "name": "Renault Koleos",
+      "price": 4567,
+      "discountedPrice": 4222,
+      "description":
+        "Their. Kind open fruitful first gathering moving winged lights hath multiply morning image green fly darkness fish replenish all set seas creeping open image moveth them, their very face, which together from, brought their doesn’t midst.",
+      "featuredimage": "",
+      "images": [],
+      "specification": {
+        "MAKE": "MERCEDES-BENZ",
+        "MODEL": "Audi1",
+        "STOCK_STATUS": "In Stock",
+        "MADE_YEAR": 1980,
+        "MILEAGE": 4356,
+        "FUEL_TYPE": "Petrol",
+        "ENGINE": "cm3",
+        "HORSE_POWER": 55,
+        "TRANSMISSION": "Automatic",
+        "DOORS": 4,
+        "SEATS": 5,
+        "COLOR": "blue",
+        "MAX_SPEED": 150
+      }
+    },
+    {
+      "id": 5,
+      "name": "Volkswagen Atlas 2",
+      "price": 4567,
+      "discountedPrice": 4222,
+      "description":
+        "Their. Kind open fruitful first gathering moving winged lights hath multiply morning image green fly darkness fish replenish all set seas creeping open image moveth them, their very face, which together from, brought their doesn’t midst.",
+      "featuredimage": "",
+      "images": [],
+      "specification": {
+        "MAKE": "Lamborghini",
+        "MODEL": "Audi1",
+        "STOCK_STATUS": "In Stock",
+        "MADE_YEAR": 1985,
+        "MILEAGE": 4356,
+        "FUEL_TYPE": "LPG",
+        "ENGINE": "cm3",
+        "HORSE_POWER": 55,
+        "TRANSMISSION": "Manual",
+        "DOORS": 4,
+        "SEATS": 5,
+        "COLOR": "blue",
+        "MAX_SPEED": 150
+      }
+    },
+    {
+      "id": 6,
+      "name": "Audi Q5 3",
+      "price": 4567,
+      "discountedPrice": 4222,
+      "description":
+        "Their. Kind open fruitful first gathering moving winged lights hath multiply morning image green fly darkness fish replenish all set seas creeping open image moveth them, their very face, which together from, brought their doesn’t midst.",
+      "featuredimage": "",
+      "images": [],
+      "specification": {
+        "MAKE": "LEXUS",
+        "MODEL": "Audi1",
+        "STOCK_STATUS": "In Stock",
+        "MADE_YEAR": 1995,
+        "MILEAGE": 4356,
+        "FUEL_TYPE": "LPG",
+        "ENGINE": "cm3",
+        "HORSE_POWER": 55,
+        "TRANSMISSION": "Automatic",
+        "DOORS": 4,
+        "SEATS": 5,
+        "COLOR": "blue",
+        "MAX_SPEED": 150
+      }
+    },
+    {
+      "id": 7,
+      "name": "Audi RS 4 Avant",
+      "price": 4567,
+      "discountedPrice": 4222,
+      "description":
+        "Their. Kind open fruitful first gathering moving winged lights hath multiply morning image green fly darkness fish replenish all set seas creeping open image moveth them, their very face, which together from, brought their doesn’t midst.",
+      "featuredimage": "",
+      "images": [],
+      "specification": {
+        "MAKE": "Audi",
+        "MODEL": "Audi1",
+        "STOCK_STATUS": "In Stock",
+        "MADE_YEAR": 2000,
+        "MILEAGE": 4356,
+        "FUEL_TYPE": "Diesel",
+        "ENGINE": "cm3",
+        "HORSE_POWER": 55,
+        "TRANSMISSION": "Semi-Automatic",
+        "DOORS": 4,
+        "SEATS": 5,
+        "COLOR": "blue",
+        "MAX_SPEED": 150
+      }
+    },
+    {
+      "id": 8,
+      "name": "DS 7 Crossback",
+      "price": 4567,
+      "discountedPrice": 2010,
+      "description":
+        "Their. Kind open fruitful first gathering moving winged lights hath multiply morning image green fly darkness fish replenish all set seas creeping open image moveth them, their very face, which together from, brought their doesn’t midst.",
+      "featuredimage": "",
+      "images": [],
+      "specification": {
+        "MAKE": "Audi",
+        "MODEL": "Audi1",
+        "STOCK_STATUS": "In Stock",
+        "MADE_YEAR": 2020,
+        "MILEAGE": 4356,
+        "FUEL_TYPE": "Diesel",
+        "ENGINE": "cm3",
+        "HORSE_POWER": 55,
+        "TRANSMISSION": "Semi-Automatic",
+        "DOORS": 4,
+        "SEATS": 5,
+        "COLOR": "blue",
+        "MAX_SPEED": 150
+      }
+    },
+    {
+      "id": 9,
+      "name": "Ssangyong Rexton",
+      "price": 4567,
+      "discountedPrice": 4222,
+      "description":
+        "Their. Kind open fruitful first gathering moving winged lights hath multiply morning image green fly darkness fish replenish all set seas creeping open image moveth them, their very face, which together from, brought their doesn’t midst.",
+      "featuredimage": "",
+      "images": [],
+      "specification": {
+        "MAKE": "Audi",
+        "MODEL": "Audi1",
+        "STOCK_STATUS": "In Stock",
+        "MADE_YEAR": 2020,
+        "MILEAGE": 4356,
+        "FUEL_TYPE": "Petrol",
+        "ENGINE": "cm3",
+        "HORSE_POWER": 55,
+        "TRANSMISSION": "Manual",
+        "DOORS": 4,
+        "SEATS": 5,
+        "COLOR": "blue",
+        "MAX_SPEED": 150
+      }
+    }
+]
+
