@@ -6,6 +6,7 @@ import { Speedometer } from "@styled-icons/bootstrap/Speedometer";
 import { GasPump } from "@styled-icons/boxicons-solid/GasPump";
 import { BrightnessAuto } from "@styled-icons/material-twotone/BrightnessAuto";
 import { Link } from "react-router-dom";
+import {numberWithCommas} from '../../Utils/helper';
 
 interface Props {
   car: CarDataType;
@@ -117,10 +118,6 @@ const NavFixedItem = styled(Link)`
   margin-right:15px;
   cursor:pointer;
 `;
-
-const numberWithCommas = (x: number) => {
-  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-};
 
 const CarDetail: React.FC<Props> = ({ car }) => {
   return (

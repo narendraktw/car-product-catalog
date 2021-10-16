@@ -1,17 +1,17 @@
 import React from "react";
 import { Link } from "react-router-dom"
-
 import { useQuery } from "@apollo/client";
 import { LOAD_CARS_BY_ID } from "../GraphQL/Queries";
 import { useParams } from "react-router-dom";
 import styled from "styled-components";
-import CarSpecification from "../Components/IndividualCar/CarSpecification";
-import SidebarContentBox from "../Components/IndividualCar/SidebarContentBox";
-import { Colors } from "../Styles/Colors";
 import { Speedometer } from "@styled-icons/bootstrap/Speedometer";
 import { GasPump } from "@styled-icons/boxicons-solid/GasPump";
 import { BrightnessAuto } from "@styled-icons/material-twotone/BrightnessAuto";
 import CustomCarousel from "../Components/Carousel/CustomCarousel";
+import CarSpecification from "../Components/IndividualCar/CarSpecification";
+import SidebarContentBox from "../Components/IndividualCar/SidebarContentBox";
+import {numberWithCommas} from '../Utils/helper';
+import { Colors } from "../Styles/Colors";
 const IndividualDescription = styled.p`
   color: ${Colors.lightBlack};
   font-weight: 400;
@@ -68,14 +68,9 @@ const IndividualCar: React.FC = () => {
     return <div>ERROR</div>;
   }
 
-  const CarDataById = data.getCarById
-  console.log(data)
-
+  const CarDataById = data.getCarById; 
   const carouselItems = [1, 2, 3, 4, 5, 6, 7];
-  const numberWithCommas = (x: number) => {
-    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-  };
-
+ 
   return (
     <>
       <IndividualCarContainer>

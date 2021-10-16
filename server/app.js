@@ -6,6 +6,7 @@ const app = express();
 const PORT = 8000;
 app.use(cors());
 
+//graphqlHTTP handle the request coming in...
 app.use(
   "/graphql",
   graphqlHTTP({
