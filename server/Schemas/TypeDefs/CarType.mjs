@@ -28,7 +28,7 @@ const CarType = new GraphQLObjectType({
     price: { type: GraphQLInt },
     discountedPrice: { type: GraphQLString },
     description: { type: GraphQLString },
-    featuredimage: { type: GraphQLString },
+    featuredImage: { type: GraphQLString },
     images: { type: GraphQLString },
     specification: { type: specificationType },
   }),

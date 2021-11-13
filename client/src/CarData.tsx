@@ -4,7 +4,7 @@ export interface CarDataType {
   price: number,
   discountedPrice: number,
   description: string,
-  featuredimage: string,
+  featuredImage: string,
   images: Array<string>,
   specification: {
     MAKE: string,

@@ -8,7 +8,7 @@ import { LOAD_CARS } from "../GraphQL/Queries";
 
 const CarListContainer = styled.div`
   display: flex;
-  margin:4rem;
+  margin: 4rem;
 `
 const CarListItem = styled.div`
   display:flex;
