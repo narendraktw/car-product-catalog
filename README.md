@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
+Sonar Status: [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=narendraktw_code-20211011-NarendraBisht&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=narendraktw_code-20211011-NarendraBisht)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=narendraktw_code-20211011-NarendraBisht&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=narendraktw_code-20211011-NarendraBisht)
 
 ## Available Scripts
 
