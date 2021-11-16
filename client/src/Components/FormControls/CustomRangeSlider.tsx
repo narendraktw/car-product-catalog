@@ -38,7 +38,7 @@ const CustomRangeSlider: React.FC<Props> = ({ initial, last, label }) => {
           min={MIN}
           max={MAX}
           rtl={false}
-          onChange={(values) => setValues(values)}
+          onChange={() => setValues(values)}
           renderTrack={({ props, children }) => (
             <div
               onMouseDown={props.onMouseDown}
